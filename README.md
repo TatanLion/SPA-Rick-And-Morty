@@ -1,4 +1,4 @@
-# Tech Hawaii
+# Single Page Applications - Rick and Morty
 
 Proyecto Rick & Morty en Single Page Application consultando una [API](https://rickandmortyapi.com/api/character) de Rick And Morty
 
